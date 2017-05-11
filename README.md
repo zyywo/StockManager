@@ -1,2 +1,1 @@
-# StockManager
-设备资产管理
+https://docs.djangoproject.com/en/1.11/intro/tutorial03/
